@@ -7,7 +7,7 @@
 
  <img src="https://img.shields.io/static/v1?label=Rocketseat&message=Ignite&color=dc1637&labelColor=0A1033" alt="Ignite" />
 
- <img src="https://img.shields.io/static/v1?label=Expo&message=SDK -7&color=dc1637&labelColor=0A1033" alt="Ignite" />
+ <img src="https://img.shields.io/static/v1?label=Expo&message=SDK-47&color=dc1637&labelColor=0A1033" alt="Ignite" />
 </p>
 
 ## 💻 Projeto
